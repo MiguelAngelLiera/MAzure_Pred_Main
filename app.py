@@ -7,6 +7,11 @@ from menu.app_text import app_overview
 
 
 def main():
+    st.set_page_config(
+        page_title="Predictive Maintenance Model Homepage",
+        layout="centered",
+        initial_sidebar_state="auto",
+    )
     st.title("Azure Machine Predictive Maintenaince")
     st.divider()
 
