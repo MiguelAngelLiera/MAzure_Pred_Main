@@ -29,4 +29,6 @@ This repo and platform (https://lstm-machine-maintenance.streamlit.app/) provide
 * **Future Work:**
     * Explore potential enhancements, additional analyses, and next steps for the project.
 
+All experimentation and source code can be founded in !(simple_lstm.ipynb)
+
 ---
