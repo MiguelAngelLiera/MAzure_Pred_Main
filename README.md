@@ -1,6 +1,6 @@
 # Streamlit App Navigation Guide
 
-This repo and platform provides a place for exploring a Machine Learning solution focused on Azure Machine Predictive Maintenance. You can navigate through different sections of the project using the sidebar menu.
+This repo and platform (https://lstm-machine-maintenance.streamlit.app/) provides a place for exploring a Machine Learning solution focused on Azure Machine Predictive Maintenance. You can navigate through different sections of the project using the sidebar menu.
 
 ---
 
@@ -13,7 +13,9 @@ This repo and platform provides a place for exploring a Machine Learning solutio
 
 * **Proyect presentation:**
     * This section offers an overview of the project's goals and scope.
-    * You will find a general introduction to the predictive maintenance solution and an illustrative image (`/images/portada.png`).
+    * You will find a general introduction to the predictive maintenance solution.
+
+    ![Deployed app](images/portada.png)
 
 * **EDA and Feature Engineering:**
     * Dive into the Exploratory Data Analysis (EDA) and Feature Engineering aspects of the project.
